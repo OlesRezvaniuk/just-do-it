@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/just-do-it/static/css/main.7acaea2f.css",
+    "main.js": "/just-do-it/static/js/main.a8b3fe5a.js",
+    "index.html": "/just-do-it/index.html",
+    "main.7acaea2f.css.map": "/just-do-it/static/css/main.7acaea2f.css.map",
+    "main.a8b3fe5a.js.map": "/just-do-it/static/js/main.a8b3fe5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.a8b3fe5a.js"
+  ]
+}
